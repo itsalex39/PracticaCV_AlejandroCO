@@ -8,5 +8,16 @@ namespace PracticaCV_AlejandroCO
 {
     internal class Clase_AlejandroCO
     {
+        //Constantes
+
+        //Miembros o Campos
+
+        //Constructores
+
+        //Propiedades
+
+        //Metodos Privados
+
+        //Metodos Publicos
     }
 }
