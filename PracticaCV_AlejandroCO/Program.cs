@@ -1,4 +1,6 @@
-﻿namespace PracticaCV_AlejandroCO
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PracticaCV_AlejandroCO
 {
     internal class Program
     {
@@ -15,6 +17,7 @@
             //Proceso
 
             //Salida
+            Console.WriteLine("Mi nombre es: AlejandroCO");
         }
     }
 }
