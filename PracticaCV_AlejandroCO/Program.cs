@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Constantes
+
+            //Variables
+
+            //Inicializacion
+
+            //Entrada
+
+            //Proceso
+
+            //Salida
         }
     }
 }
